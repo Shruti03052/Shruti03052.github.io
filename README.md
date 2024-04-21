@@ -24,6 +24,7 @@ The goal of the project is to design and implement an AI-based recommendation sy
 #### Proposed Solution
 By making use of the genres and tags given by user we can make our recommender system work.The approach which we took is by converting movies into vectors and then  by making use of the similarity matrix generatedwe can find movies with the highest cosine similarity scores to the target movie.
 #### Link to the spotlight video:
+[Link to the spotlight video presentaion](https://youtu.be/Q1VWzJcuj1Y).
 
 
 #### Citations:

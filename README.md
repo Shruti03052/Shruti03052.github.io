@@ -23,6 +23,13 @@ The goal of the project is to design and implement an AI-based recommendation sy
 [Movie Lens Dataset](https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset).
 #### Proposed Solution
 By making use of the genres and tags given by user we can make our recommender system work.The approach which we took is by converting movies into vectors and then  by making use of the similarity matrix generatedwe can find movies with the highest cosine similarity scores to the target movie.
+To enhance the user experience, we developed a dedicated website where users can interact with the
+recommendation system seamlessly. This platform allows users to explore a vast collection of movies
+and get recommendation.
+Overall, our movie recommendation system provides users with a convenient and efficient way to
+discover new movies, enhancing their overall movie-watching experience.
+#### Link to the website:
+[Link to the website](https://movierecommender-prml.streamlit.app)
 #### Link to the spotlight video:
 [Link to the spotlight video presentaion](https://youtu.be/Q1VWzJcuj1Y).
 
